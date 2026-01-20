@@ -1,1 +1,0 @@
-import React from 'react';export default function Contact() {  return (    <form className='container mx-auto px-4 py-8'>      <label htmlFor='name'>Name</label>      <input type='text' id='name'/>    </form>  );}
