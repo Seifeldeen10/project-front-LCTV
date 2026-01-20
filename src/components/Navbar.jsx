@@ -1,0 +1,1 @@
+import React from 'react';import { Link } from 'react-router-dom';export default function Navbar() {return (    <nav className='container mx-auto px-4 py-8'>      <Link to='/'>Home</Link>      <Link to='/about'>About</Link>      <Link to='/contact'>Contact</Link>    </nav>  );}
