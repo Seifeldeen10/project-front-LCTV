@@ -1,0 +1,1 @@
+import React from 'react';export default function HeroSection() {return (    <section className='container mx-auto px-4 py-8'>      <h1 className='text-3xl font-bold text-gray-600'>Hero Section</h1>    </section>  );}
